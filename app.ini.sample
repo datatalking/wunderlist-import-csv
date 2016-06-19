@@ -1,0 +1,7 @@
+[main]
+csv_file = Sample-Items.csv
+
+[wunderlist]
+api_base = https://a.wunderlist.com/api/v1
+client_id = abc123
+access_token = zyxwvutsrqponmlkjihgfedcba
