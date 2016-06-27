@@ -1,0 +1,5 @@
+"List","Task","Note","Additional Note","Due Date"
+Test 1,Some task to do,This one has a note,With some additional information here,2016-06-01
+Test 1,Another task,,,
+Test 2,No note,,,2016-06-12
+Test 2,No due date,"But there is a note. Just no additional note.",,
